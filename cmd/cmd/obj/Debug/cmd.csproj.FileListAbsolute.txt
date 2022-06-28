@@ -1,0 +1,6 @@
+C:\Users\Андрей\Documents\SharpDevelop Projects\cmd\cmd\bin\Debug\cmd.exe.config
+C:\Users\Андрей\Documents\SharpDevelop Projects\cmd\cmd\bin\Debug\cmd.exe
+C:\Users\Андрей\Documents\SharpDevelop Projects\cmd\cmd\bin\Debug\cmd.pdb
+C:\Users\Андрей\Documents\SharpDevelop Projects\cmd\cmd\obj\Debug\cmd.exe
+C:\Users\Андрей\Documents\SharpDevelop Projects\cmd\cmd\obj\Debug\cmd.pdb
+C:\Users\Андрей\Documents\SharpDevelop Projects\cmd\cmd\obj\Debug\cmd.csproj.CoreCompileInputs.cache
